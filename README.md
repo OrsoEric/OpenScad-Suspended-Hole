@@ -9,3 +9,6 @@ Use:
 - suspended_hole_hex is the same, but instance a hexagonal hole meant for hex nuts and bolts
 - test_bench() shows a test block with support features enabled/disabled
 - stl and gcode for the test block to test on your 3D printer
+
+Below image of the printed test block:
+![](suspended hole.jpg)
