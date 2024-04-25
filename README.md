@@ -11,4 +11,4 @@ Use:
 - stl and gcode for the test block to test on your 3D printer
 
 Below image of the printed test block:
-![](suspended hole.jpg)
+![](/suspended hole.jpg)
